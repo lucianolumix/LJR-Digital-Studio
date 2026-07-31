@@ -1,0 +1,6 @@
+# robots.txt — LJR Digital Studio
+User-agent: *
+Allow: /
+
+# Sitemap Pointer
+Sitemap: https://ljrdigitalstudio.com.br/sitemap.xml
